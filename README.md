@@ -1,2 +1,2 @@
-# My_Python
-I am a Beginner and any assistance in Project Creation is Appreciated.
+Based the current Covid Cases Data, We are comparing the registered cases against deceased.
+We will the Predict the Number of Deceased Cases can be registered in Future.
